@@ -1,0 +1,5 @@
+package br.gov.rj.faeterj.estoque.controller;
+
+public @interface Valid {
+
+}

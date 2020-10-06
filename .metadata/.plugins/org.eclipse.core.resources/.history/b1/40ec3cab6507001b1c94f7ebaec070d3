@@ -1,0 +1,5 @@
+package br.gov.rj.faeterj.estoque.model;
+
+public class Produto {
+
+}
